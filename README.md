@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @lookerjin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 📊 我的 GitHub 统计
 
-<!---
-lookerjin/lookerjin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lookerjin&show_icons=true&theme=transparent&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lookerjin&layout=compact&theme=transparent&hide_border=true" alt="Languages" height="150" />
+</p>
