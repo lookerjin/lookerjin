@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lookerjin&theme=flat&no-bg=true&column=7&margin-w=15" alt="trophy" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lookerjin&theme=github-compact&bg_color=00000000&hide_border=true" />
 </p>
 
 <p align="center">
